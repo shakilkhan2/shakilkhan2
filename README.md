@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Shaki Khan</h1>
-<h5 align="center">A passionate front-end developer from Bangladesh.</h5>
+<h1 align="center">Hi 👋, I'm Shakil Khan</h1>
+<h4 align="center">A passionate front-end developer from Bangladesh.</h4>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shakilkhan2&label=Profile%20views&color=0e75b6&style=flat" alt="shakilkhan2" /> </p>
 
